@@ -1,47 +1,35 @@
 # Neighbours
 
-# DESCRIPTION
+## Author
+**Fabian Matata**
 
+## Description
 This is a web application allows you to be in the loop about everything happening in your neighborhood. From contact information of different handyman to meeting announcements or even alerts.
 
 ## User Story
-
 - Users need to Sign in to the application to start using it
-
 - Users can Set up a profile about them and a general location and their neighborhood name
-
 - Users Find a list of different businesses in my neighborhood.
-
 - Users can search for different businesses in their neighborhood.
-
 -  Users can Find Contact Information for the health department and Police authorities near my neighborhood. 
-
 -  Users can Change their neighborhood when I decide to move out.
-
 -  Users can Only view details of a single neighborhood.
 
 
 
-# **SETUP/INSTALLATION.**
+## Setup & Installation.
 ## Prerequisites
-
 To work with My Neighborhood App you need to have some few prerequisites.
 
 - Python3.6
-
 - pip
-
 - Django 
-
 - Virtual environment (virtualenv)
-
 - Code/text editor
-
 - Terminal
 
 
 ### **To work With Neigbours**
-
 1. You will need Internet connection.
 
 2. You will also need python installed and knowledge of python
@@ -69,20 +57,16 @@ Link:-> ```https://github.com/FabianMatata```
 run: 
 * $ python3.6 manage.py runserver
 
-# Technologies Used
-
+## Technologies Used
 * Python 3.6
 * Django
 * Postgresql
 * MDBootstrap
 
 
-# AUTHOR
-
-* Joseph Adediji 
 
 ## Support and Contact
+Feel free to reach me via email  mfabian601@gmail.com
 
-Feel free to reach me via email mfabian601@gmail.com
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Copyright (c) 2022 **Fabian Matata**
