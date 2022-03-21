@@ -7,7 +7,7 @@ Django
 django-countries
 django-crispy-forms
 django-heroku
-django-registration==2.4.1
+django-registration
 django-tinymce
 gunicorn
 Pillow
