@@ -63,7 +63,3 @@ Feel free to reach me via email  mfabian601@gmail.com
 Copyright (c) 2022 **Fabian Matata**
 
 
-
-12345678910
-123456789810
-123456789910
