@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'neighborhood',
+    'registration',
     # 'neighborhood.apps.NeighborhoodConfig',
 ]
 
