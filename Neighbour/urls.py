@@ -22,7 +22,7 @@ from django.urls import path, include
 # from django.conf.urls import url, include
 from django.contrib.auth import views
 # from registration.backends.simple.views import RegistrationView
-from neighborhood.forms import RegisterForm
+# from neighborhood.forms import RegisterForm
 
 
 
