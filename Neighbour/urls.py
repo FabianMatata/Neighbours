@@ -30,13 +30,13 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('neighborhood.urls')),
 
-    path('accounts/register/',
-        RegistrationView.as_view(
-            form_class=RegisterForm
-        ),
-        name='registration_register',
-    ),
-    path('accounts/', include('registration.backends.simple.urls')),
+#     path('accounts/register/',
+#         RegistrationView.as_view(
+#             form_class=RegisterForm
+#         ),
+#         name='registration_register',
+#     ),
+#     path('accounts/', include('registration.backends.simple.urls')),
     # path('logout/', views.logout, {"next_page": '/'}), 
     path('tinymce/', include('tinymce.urls')),
 ]
