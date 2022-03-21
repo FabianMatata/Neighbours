@@ -9,6 +9,7 @@ django-crispy-forms
 django-heroku
 django-registration
 django-tinymce
+gunicorn
 Pillow
 psycopg2
 pytz
